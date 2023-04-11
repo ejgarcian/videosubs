@@ -39,7 +39,7 @@ You can just watch the video and listen.
 00:00:28,500 --> 00:00:30,500
 Thank you for your attention.
 ```
-You can use Jupiter to run the notebook in this repository named vsagia.ipynb and enjoy.
+You can use Jupiter to run the notebook in this repository https://github.com/ejgarcian/videosubs/blob/main/vsagia.ipynb and enjoy.
 
 Thank you for watching this code! I hope you enjoyed it and learned something new. If you want to create your own subtitles for your videos, you can use the Video Subs Automatic Generator IA (VSAGIA). It's a powerful tool that can generate subtitles in different languages and formats powered whit. You can try it for free and see how it works. I would love to hear your feedback and suggestions on how to improve it. Please leave a comment below or contact me through my social media. Have a great day!
 
