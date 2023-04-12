@@ -45,3 +45,7 @@ Thank you for watching this code! I hope you enjoyed it and learned something ne
 
 NOTE: Remember preparing the environment with the all CUDA and Python packages requirements to execute GPU programs in the computer, for more information refer to: https://developer.nvidia.com/rdp/cudnn-download and https://github.com/openai/whisper, others technical requirements will be specific of your video card and https://pypi.org/project/ffmpeg/
 
+<p align="center">
+  <img src="https://github.com/ejgarcian/videosubs/blob/main/nvidea%20logo%20small.jpg">
+  <img src="https://github.com/ejgarcian/videosubs/blob/main/openIAlogo_small.jpg">
+</p>
