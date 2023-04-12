@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/ejgarcian/videosubs/blob/main/visagiaheader.jpeg">
+</p>
+
 # Video Subs Automatic Generator IA (VSAGIA) Jupyter Notebook
 This is a python script to create subs close caption file .str video from a video file .mp4 as a source automatically. This script use NVIDIA/CUDA GPU to generate the subs. It’s powered through Whisper a powerful and robust speech recognition model that can transcribe audio in multiple languages and translate it to English. It is based on a Transformer encoder-decoder architecture and trained on a large and diverse dataset of audio.
 
@@ -45,6 +50,3 @@ Thank you for watching this code! I hope you enjoyed it and learned something ne
 
 NOTE: Remember preparing the environment with the all CUDA and Python packages requirements to execute GPU programs in the computer, for more information refer to: https://developer.nvidia.com/rdp/cudnn-download and https://github.com/openai/whisper, others technical requirements will be specific of your video card and https://pypi.org/project/ffmpeg/
 
-<p align="center">
-  <img src="">
-</p>
