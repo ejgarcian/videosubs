@@ -16,7 +16,7 @@ To set the working folder set the variable line at:
 file = "YOUR--VIDEO--FILE.mp4"
 ```
 
-But for the results obtained was very well in performance and precision of the close caption and time frames position. Another strange situation is the model capture al sounds as sounds and other languages speakers, but it was very interesting experience.
+But for the results obtained was very well in performance and precision of the close caption and time frames position. Another strange situation is the model capture al sounds as sounds and other languages speakers, but it was a very interesting experience.
 
 Other parameters in the example provided script is the use of the translation mode, I use the translation of a English Video to a Spanish Closed Caption, and it was very well, to handle the translation mode:
 ```
