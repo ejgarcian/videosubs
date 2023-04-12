@@ -1,4 +1,4 @@
-# Video Subs Automatic Generator IA (VSAGIA)
+# Video Subs Automatic Generator IA (VSAGIA) Jupyter Notebook
 This is a python script to create subs close caption file .str video from a video file .mp4 as a source automatically. This script use NVIDIA/CUDA GPU to generate the subs. It’s powered through Whisper a powerful and robust speech recognition model that can transcribe audio in multiple languages and translate it to English. It is based on a Transformer encoder-decoder architecture and trained on a large and diverse dataset of audio.
 
 The performance of this work was made in a RTX3060, was 4.30 minutes to process a mp4 video file with size of 1.81GB and 1:38 hours of duration. The test of a CPU capable is no recommended because is too slow the processing. In some circumstances the IA model can add some unexpected or illusion hearing in the silent space, more of them when the duration is large, but maybe can be improve increasing the parameter settings like model size, to set the model size:
