@@ -17,7 +17,7 @@ Other parameters in the example provided script is the use of the translation mo
 ```
 #use to translate directly to English
 #transcribe = model.transcribe(path + audio, task="translate") 
-#use to translate form english to spanish 
+#use to translate english to spanish 
 transcribe = model.transcribe(path + audio, task="translate", language="es")
 ```
 
